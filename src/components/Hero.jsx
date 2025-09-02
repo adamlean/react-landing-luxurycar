@@ -1,0 +1,26 @@
+import { useState } from "react";
+import "./Hero.css";
+
+const Hero = () => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  return (
+    <section className="hero">
+      <div className="container">
+        <div className="hero-content">
+          <h1>Luxury car detailing</h1>
+          <p>
+            Ощутите престиж профессионально продуманного автомобиля,<br />сияющего элегантностью и изысканностью на каждом
+            шагу.
+          </p>
+          <a href="#" class="connect-btn">Давайте подключимся →</a>
+        </div>
+        <div className="hero-image">
+          <img src="/assets/img/hero_image.png" alt="Luxury Car" />
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default Hero;
