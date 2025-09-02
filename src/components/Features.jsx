@@ -46,7 +46,7 @@ const Features = () => {
                 </p>
               </div>
             </div>
-            <a href="#" className="quote-link">Get a quote now</a>
+            <a href="https://example.com/" className="quote-link">Get a quote now</a>
           </div>
         </div>
       </div>

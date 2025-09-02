@@ -31,10 +31,10 @@ const NavBar = () => {
           </button>
 
           <ul className="nav-links">
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Pricing</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="https://example.com/">Pricing</a></li>
+            <li><a href="https://example.com/">About</a></li>
+            <li><a href="https://example.com/">Contact</a></li>
           </ul>
           <a href="#" className="quote-btn">Get a quote</a>
         </nav>

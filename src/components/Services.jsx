@@ -3,7 +3,7 @@ import "./Services.css";
 
 const Services = () => {
   return (
-    <section className="services">
+    <section className="services" id="services">
       <div className="container">
         <div className="section-header">
           <h2>Love in Every Detail</h2>
@@ -18,7 +18,7 @@ const Services = () => {
             <p>
               Treat your luxury car to a thorough hand<br />wash and wax application.
             </p>
-            <a href="#" className="learn-more">Learn more</a>
+            <a href="https://example.com/" className="learn-more">Learn more</a>
           </div>
           <div className="card">
             <img src="/assets/img/card_2.png" alt="Подробнее о техобслуживании" />
@@ -26,7 +26,7 @@ const Services = () => {
             <p>
               Ensure your car's longevity with a periodic<br />exterior protection treatment.
             </p>
-            <a href="#" class="learn-more">Learn more</a>
+            <a href="https://example.com/" class="learn-more">Learn more</a>
           </div>
           <div className="card">
             <img src="/assets/img/card_3.png" alt="Подробнее" />
@@ -34,7 +34,7 @@ const Services = () => {
             <p>
               Pamper your vehicle with a complete<br />treatment, leaving no detail overlooked.
             </p>
-            <a href="#" className="learn-more">Learn more</a>
+            <a href="https://example.com/" className="learn-more">Learn more</a>
           </div>
         </div>
       </div>

@@ -15,26 +15,26 @@ const Footer = () => {
           <div>
             <h4>Website</h4>
             <ul>
-              <li><a href="#">Services</a></li>
-              <li><a href="#">Pricing</a></li>
-              <li><a href="#">About</a></li>
+              <li><a href="https://example.com/">Services</a></li>
+              <li><a href="https://example.com/">Pricing</a></li>
+              <li><a href="https://example.com/">About</a></li>
             </ul>
           </div>
           <div>
             <h4>Contact</h4>
             <ul>
-              <li><a href="#">Get a quote</a></li>
-              <li><a href="#">Contact form</a></li>
-              <li><a href="#">Email us</a></li>
+              <li><a href="https://example.com/">Get a quote</a></li>
+              <li><a href="https://example.com/">Contact form</a></li>
+              <li><a href="https://example.com/">Email us</a></li>
             </ul>
           </div>
           <div>
             <h4>СSocial Media</h4>
             <ul>
-              <li><a href="#">Facebook</a></li>
-              <li><a href="#">Instagram</a></li>
-              <li><a href="#">Twitter</a></li>
-              <li><a href="#">Youtube</a></li>
+              <li><a href="https://example.com/">Facebook</a></li>
+              <li><a href="https://example.com/">Instagram</a></li>
+              <li><a href="https://example.com/">Twitter</a></li>
+              <li><a href="https://example.com/">Youtube</a></li>
             </ul>
           </div>
         </div>
@@ -42,9 +42,9 @@ const Footer = () => {
       <div className="footer-bottom">
         <span>LuxureDetails © 2024</span>
         <div className="footer-links">
-          <a href="#">Cookie policy</a>
-          <a href="#">Terms of service</a>
-          <a href="#">Privacy policy</a>
+          <a href="https://example.com/">Cookie policy</a>
+          <a href="https://example.com/">Terms of service</a>
+          <a href="https://example.com/">Privacy policy</a>
           <a
             href="https://www.figma.com/design/YEuQIpkKqpy4m3olwAtd3v/Luxury-Car-Detailing-Landing-Page--Community-?node-id=2-139&t=D54cmUptUO6p3HvG-1">Design</a>
         </div>
