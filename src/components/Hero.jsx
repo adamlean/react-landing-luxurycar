@@ -10,10 +10,10 @@ const Hero = () => {
         <div className="hero-content">
           <h1>Luxury car detailing</h1>
           <p>
-            Ощутите престиж профессионально продуманного автомобиля,<br />сияющего элегантностью и изысканностью на каждом
-            шагу.
+            Experience the prestige of a professionally detailed car,
+            radiating elegance and refinement at every turn.
           </p>
-          <a href="#" class="connect-btn">Давайте подключимся →</a>
+          <a href="#" class="connect-btn">Let’s connect</a>
         </div>
         <div className="hero-image">
           <img src="/assets/img/hero_image.png" alt="Luxury Car" />

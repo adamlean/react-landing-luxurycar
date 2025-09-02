@@ -31,12 +31,12 @@ const NavBar = () => {
           </button>
 
           <ul className="nav-links">
-            <li><a href="#">Услуги</a></li>
-            <li><a href="#">Цены</a></li>
-            <li><a href="#">О нас</a></li>
-            <li><a href="#">Контакты</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Pricing</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
           </ul>
-          <a href="#" className="quote-btn">Получить расценки</a>
+          <a href="#" className="quote-btn">Get a quote</a>
         </nav>
       </div>
 
