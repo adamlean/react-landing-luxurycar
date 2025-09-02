@@ -1,3 +1,8 @@
+![Luxury Car](screenshot.jpg)
+
+- [Design](https://www.figma.com/design/YEuQIpkKqpy4m3olwAtd3v/Luxury-Car-Detailing-Landing-Page--Community-?node-id=0-1&t=vQMvaOu1y1kiD4Yn-1)
+- [Demo]()
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
