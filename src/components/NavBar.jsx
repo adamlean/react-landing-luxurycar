@@ -1,12 +1,7 @@
-import { useState } from "react";
+import React from "react";
 import "./NavBar.css";
 
 const NavBar = () => {
-  const [isOpen, setIsOpen] = useState(false);
-
-  const openMenu = () => setIsOpen(true);
-  const closeMenu = () => setIsOpen(false);
-
   return (
     <header>
       <div className="container">
@@ -36,7 +31,7 @@ const NavBar = () => {
             <li><a href="https://example.com/">About</a></li>
             <li><a href="https://example.com/">Contact</a></li>
           </ul>
-          <a href="#" className="quote-btn">Get a quote</a>
+          <a href="https://example.com/" className="quote-btn">Get a quote</a>
         </nav>
       </div>
 

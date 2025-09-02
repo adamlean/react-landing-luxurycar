@@ -13,7 +13,7 @@ const Services = () => {
         </div>
         <div className="cards">
           <div className="card">
-            <img src="/assets/img/card_1.png" alt="Детализация начального уровня" />
+            <img src="/assets/img/card_1.png" alt="Entry level detail" />
             <h3>Entry level detail</h3>
             <p>
               Treat your luxury car to a thorough hand<br />wash and wax application.
@@ -21,7 +21,7 @@ const Services = () => {
             <a href="https://example.com/" className="learn-more">Learn more</a>
           </div>
           <div className="card">
-            <img src="/assets/img/card_2.png" alt="Подробнее о техобслуживании" />
+            <img src="/assets/img/card_2.png" alt="Maintenance detail" />
             <h3>Maintenance detail</h3>
             <p>
               Ensure your car's longevity with a periodic<br />exterior protection treatment.
@@ -29,7 +29,7 @@ const Services = () => {
             <a href="https://example.com/" class="learn-more">Learn more</a>
           </div>
           <div className="card">
-            <img src="/assets/img/card_3.png" alt="Подробнее" />
+            <img src="/assets/img/card_3.png" alt="Full detail" />
             <h3>Full detail</h3>
             <p>
               Pamper your vehicle with a complete<br />treatment, leaving no detail overlooked.

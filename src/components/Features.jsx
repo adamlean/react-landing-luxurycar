@@ -13,7 +13,7 @@ const Features = () => {
           <div className="right-content">
             <div className="feature-item">
               <div className="icon">
-                <img src="/assets/img/vector.png" />
+                <img src="/assets/img/vector.png" alt="vector" />
               </div>
               <div>
                 <h3>Precise work</h3>
@@ -25,7 +25,7 @@ const Features = () => {
             <hr />
             <div className="feature-item">
               <div className="icon">
-                <img src="/assets/img/diamond.png" />
+                <img src="/assets/img/diamond.png" alt="diamond" />
               </div>
               <div>
                 <h3>Premium Products and Services</h3>
@@ -37,7 +37,7 @@ const Features = () => {
             <hr />
             <div className="feature-item">
               <div className="icon">
-                <img src="/assets/img/security.png" />
+                <img src="/assets/img/security.png" alt="security" />
               </div>
               <div>
                 <h3>High-Level Security and Privacy</h3>
