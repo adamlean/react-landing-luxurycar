@@ -5,7 +5,7 @@ const Frame = () => {
   return (
     <section className="frame">
       <div className="frame-wrapper">
-        <img src="/assets/img/frame_1.png" alt="frame image" />
+        <img src="/assets/img/frame_1.png" alt="frame" />
       </div>
     </section>
   );
