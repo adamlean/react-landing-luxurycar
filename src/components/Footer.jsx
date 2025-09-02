@@ -1,9 +1,7 @@
-import { useState } from "react";
+import React from "react";
 import "./Footer.css";
 
 const Footer = () => {
-  const [isOpen, setIsOpen] = useState(false);
-
   return (
     <footer className="footer">
       <div className="footer-top">

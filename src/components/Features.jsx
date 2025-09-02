@@ -1,9 +1,7 @@
-import { useState } from "react";
+import React from "react";
 import "./Features.css";
 
 const Features = () => {
-  const [isOpen, setIsOpen] = useState(false);
-
   return (
     <section className="features">
       <div className="container">

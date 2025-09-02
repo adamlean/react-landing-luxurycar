@@ -6,7 +6,7 @@ import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Frame from "./components/Frame";
 import Features from "./components/Features";
-// import Cta from "./components/Cta";
+import CtaSection from "./components/CtaSection";
 import Footer from "./components/Footer";
 
 import "./App.css";
@@ -23,7 +23,7 @@ function App() {
       <Services />
       <Frame />
       <Features />
-      {/* <Cta /> */}
+      <CtaSection /> 
       <Footer />
     </div>
   );

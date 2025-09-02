@@ -1,9 +1,7 @@
-import { useState } from "react";
+import React from "react";
 import "./Hero.css";
 
 const Hero = () => {
-  const [isOpen, setIsOpen] = useState(false);
-
   return (
     <section className="hero">
       <div className="container">
